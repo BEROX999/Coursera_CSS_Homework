@@ -43,7 +43,7 @@ nav {
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     color: #fae8eb;
-    width: 100vw;
+    width: 100%;
 }
 
 nav ul {
@@ -470,14 +470,14 @@ h1 {
 
 .about-img {
     display: block;
-    max-width: 1024px;
+    max-width: 60%;
     height: auto;
     border: 2px solid rgba(121, 24, 32, 0.4);
     object-fit: cover;
     padding: 4px;
     border-radius: 4px;
     background-color: rgba(0, 0, 0, 0.2);
-    margin: 1em auto;
+    margin: 2em auto;
 }
 
 
